@@ -21,6 +21,7 @@ Set<String> hs1= new TreeSet<String>();
 		/*hs1.add(null);*/
 		hs1.add("prasanth");
 		hs1.add("vamsi");
+		hs1.add("vamsi2");
 		
 		for(String h:hs1 ) {
 			if(h!= null)
