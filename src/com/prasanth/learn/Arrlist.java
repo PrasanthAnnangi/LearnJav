@@ -19,6 +19,7 @@ public class Arrlist {
 		
 		arll.addAll(arl);
 		arll.add("ahh..okay");
+		arll.add("ahh..okay..new commit in git");
 		
 		
 		System.out.println(arll);
